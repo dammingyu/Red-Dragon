@@ -61,7 +61,7 @@ global.premium = ['+6289508996342','+6282230392514','+447553202034'] //ur premiu
 //other
 global.sessionName = 'session'
 global.antitags = false
-global.prefa = ['!','] //Command Prefix eg:(.alive ,alive 😂alive)
+global.prefa = ['!',] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sp = '💠'
 global.mess = {
     success: 'Success ✅',
