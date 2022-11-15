@@ -12,7 +12,7 @@ global.APIKeys = {
 }
 
 global.alivemsg = `📤Hi Need Help?😇
-SUPPORT DANA 62895327205097` //Costomize Alive Message (type your message in `` )
+BOT BY MINGYU` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,9 +29,9 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
-global.ytname = "" // yt chanel name
+global.vcardowner = ['+6289508996342','+6282230392514'] // owner number
+global.ownername = "MINGYU, SEOJINA, SEUNGJAE" // owner name
+global.ytname = "knetent" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
@@ -61,7 +61,7 @@ global.premium = ['+6289508996342','+6282230392514','+447553202034'] //ur premiu
 //other
 global.sessionName = 'session'
 global.antitags = false
-global.prefa = ['!',] //Command Prefix eg:(.alive ,alive 😂alive)
+global.prefa = '!' //Command Prefix eg:(.alive ,alive 😂alive)
 global.sp = '💠'
 global.mess = {
     success: 'Success ✅',
